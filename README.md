@@ -1,3 +1,5 @@
-# CNE Precourse
+# CNE Precourse - Solution
 
-You can find instructions for how to use this repository at https://github.com/gSchool/cne-precourse-curriculum/
+* How to run
+    * Clone this project
+    * Execute ./gradlew test to check all test cases are passed
